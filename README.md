@@ -16,9 +16,11 @@
 ## Part 2: Coding Technique Exploration
 ### Oscillator objects and SVG noise filters with CSS gradients
 -	An oscillator object can be used to distort an image, creating a wavy effect. This could be used to achieve the mountain-like effects from Part 1 through application to an image containing blocks of colour.
+
 ![Excerpt from *Oscillators and displacement* by user1693593](readmeImages/Oscillator.gif)
 [Source - Excerpt from *Oscillators and displacement* by user1693593 (Link to Code)](https://stackoverflow.com/questions/29586754/how-can-i-recreate-this-wavy-image-effect)
 
 -	SVG noise can be used on top of CSS gradients to expand usage of noise outside of solid blocks of colour. This could then be applied on top of the above object (with the addition of some gradients) to create the sand-like, grainy effect. 
+
 ![Excerpt from *Grainy Gradients* by Jimmy Chion](readmeImages/Grain.png)
 [Source - Excerpt from *Grainy Gradients* by Jimmy Chion (Link to Code)](https://css-tricks.com/grainy-gradients/)
