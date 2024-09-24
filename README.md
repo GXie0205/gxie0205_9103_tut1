@@ -11,7 +11,7 @@
 [Source - Excerpt from Chapter 1 *The Faults 断层* by Gao Yang (Particle)](https://www.behance.net/gallery/122945363/The-Faults-/modules/699368993)
 
 ![Excerpt from Chapter 2 *The Faults 断层 by Gao Yang (Particle)*](readmeImages/Fault2.png)
-[Source - Excerpt from *The Faults 断层 by Gao Yang (Particle)*](https://www.behance.net/gallery/122945363/The-Faults-/modules/699368997)
+[Source - Excerpt from Chapter 2 *The Faults 断层* by Gao Yang (Particle)](https://www.behance.net/gallery/122945363/The-Faults-/modules/699368997)
 
 ## Part 2: Coding Technique Exploration
 ### Oscillator objects and SVG noise filters with CSS gradients
